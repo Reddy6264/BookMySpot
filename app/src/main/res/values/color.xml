@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="button_bg">#EF7F1A</color>
+    <color name="screen_bg_start">#46729C</color>
+    <color name="screen_bg_end">#2C4E6E</color>
+    <color name="red">#ffff0000</color>
+    <color name="text_color_green">#00FF00</color>
+    <color name="background_color_red">#4BFF0000</color>
+    <color name="button_pressed_login">#EF611A</color>
+    <color name="button_pressed_cancel">#233E57</color>
+    <color name="button_border_cancel">#1D374F</color>
+    <color name="news_date">#8887BF</color>
+
+    <!-- login page colors -->
+    <color name="clr_divider_bg">#4f4f4f</color>
+    <color name="clr_edittext_def">#c3c0c0</color>
+    <color name="clr_edittext_foc">#787878</color>
+    <color name="clr_forgot_pwd">#0172ad</color>
+    <color name="clr_bg_start">#e2e3e6</color>
+    <color name="clr_bg_middle">#d0d4d7 </color>
+    <color name="clr_bg_end">#d0d4d7</color>
+    <color name="clr_bg_second">#00183b</color>
+    <color name="clr_login_border">#a9a6a7</color>
+    <color name="clr_altr1">#f8f3f5</color>
+    <color name="clr_altr2">#e9e4e6</color>
+    <color name="clr_header">#d5d2d2</color>
+    <color name="clr_confirm_time">#ec268f</color>
+    <color name="clr_header_div_start">#0C64B2</color>
+    <color name="clr_header_div_end">#064780</color>
+
+    <!-- Pop up -->
+
+    <color name="clr_popup_hdr_start">#289be5</color>
+    <color name="clr_popup_hdr_end">#289be5</color>
+    <color name="clr_popup_hdr_border">#072239</color>
+    <color name="clr_popup_border">#dee0e2</color>
+    <color name="clr_tab_border">#cacbcb</color>
+    <color name="clr_popup_bg">#f2f5f7</color>
+
+    <!-- New Design -->
+
+    <color name="clr_bar_start">#054780</color>
+    <color name="clr_bar_end">#1c70b9</color>
+    <color name="clr_line_below_bar">#013e74</color>
+    <color name="clr_top_tab_start">#56a7e1</color>
+    <color name="clr_top_tab_end">#297cb7</color>
+    <color name="clr_main_tab_start">#fefefe</color>
+    <color name="clr_main_tab_end">#e6e6e7</color>
+    <color name="clr_main_tab_border_start">#cacbcb</color>
+    <color name="clr_main_tab_border_end">#56a9e0</color>
+    <color name="clr_main_tab_active_start">#40a1d1</color>
+    <color name="clr_main_tab_active_end">#2787c1</color>
+    <color name="clr_count_circle">#ec268f</color>
+    <color name="clr_data_bg">#f5f8f9</color>
+    <color name="clr_data_border_div">#d6d9da</color>
+    <color name="clr_grid_text_left">#000000</color>
+    <color name="clr_grid_text_right">#191919</color>
+    <color name="clr_dboard_border">#003c66</color>
+    <color name="clr_dboard_today_start">#4eabef</color>
+    <color name="clr_dboard_today_end">#2472aa </color>
+    <color name="clr_dboard_month_start">#085185</color>
+    <color name="clr_dboard_month_end">#1e7bbe</color>
+    <color name="clr_btn_bg">#289be5</color>
+    <color name="clr_btn_bg_press">#58ADE2</color>
+    
+      <color name="clr_car_bg">#043a85</color>
+    
+   
+
+</resources>

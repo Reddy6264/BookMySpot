@@ -1,0 +1,48 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:background="@drawable/gradient_grid_border"
+    android:gravity="center"
+    android:orientation="vertical" >
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:id="@+id/fl_parent"
+        android:layout_height="wrap_content" >
+
+        <CheckBox
+            android:id="@+id/checkBox1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/gradient_radio_button"
+            android:button="@null"
+            android:clickable="false"
+            android:focusable="false"
+            android:padding="10dp" />
+
+        <TextView
+            android:id="@+id/item_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textStyle="bold"
+            android:text="Block : "
+            android:textColor="@android:color/white" />
+    </FrameLayout>
+
+    <!-- <ImageView -->
+    <!-- android:id="@+id/item_image" -->
+    <!-- android:layout_width="50dp" -->
+    <!-- android:visibility="gone" -->
+    <!-- android:layout_height="50dp" -->
+    <!-- android:layout_marginRight="10dp" -->
+    <!-- android:src="@drawable/ic_whitecar" > -->
+    <!-- </ImageView> -->
+
+   
+
+</LinearLayout>

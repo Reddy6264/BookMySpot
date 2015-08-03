@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Book My Spot</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="str_netwrk_erroe">An error occurred at server side, please try after sometime.</string>
+    <string name="prompt_first_name"><sup>*</sup>First Name</string>
+    <string name="prompt_last_name"><sup>*</sup>Last Name</string>
+    <string name="prompt_mobile"><sup>*</sup>Mobile Number</string>
+    <string name="prompt_email"><sup>*</sup>Email Address</string>
+    <string name="prompt_edittext_error">This field is required</string>
+    <string name="info_exit_msg">Are you sure you want to Exit ?</string>
+    <string name="info_log_out_msg">Are you sure you want to Log out ?</string>
+    <string name="btn_yes">Yes</string>
+    <string name="btn_no">No</string>
+    <string name="info_no_internet_msg">You must connect to a Wi-Fi or cellular data network to access this application.</string>
+    <string name="info_nfc_enable_msg">To use NFC, you will need to make sure NFC is enabled on your device </string>
+    <string name="info_gps_enable_msg">To use GPS, you will need to make sure GPS is enabled on your device</string>
+    <string name="info_no_nfc_msg">You device is not NFC compatible</string>
+    <string name="info_no_gps_msg">You device is not GPS compatible</string>
+    <string name="lbl_acc_bal">\u20B9</string>
+
+    <string-array name="booking_hours">
+        <item></item>
+        <item>1 hr</item>
+        <item>2 hr</item>
+        <item>3 hr</item>
+        <item>4 hr</item>
+        <item>5 hr</item>
+        <item>6 hr</item>
+        <item>7 hr</item>
+        <item>8 hr</item>
+        <item>9 hr</item>
+        <item>10 hr</item>
+        <item>11 hr</item>
+        <item>12 hr</item>
+        <item>13 hr</item>
+        <item>14 hr</item>
+        <item>15 hr</item>
+        <item>16 hr</item>
+    </string-array>
+    <string-array name="card_types">
+        <item></item>
+        <item>Visa</item>
+        <item>MasterCard</item>
+        <item>RuPay</item>
+        <item>Maestro</item>
+        <item>American Express</item>
+    </string-array>
+
+</resources>
